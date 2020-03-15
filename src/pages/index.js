@@ -21,7 +21,6 @@ const IndexPage = () => (
         <Col md={4}>
           <p>Welcome to your new Gatsby site.</p>
           <p>Now go build something great.</p>
-          <p>This is an updated sentence.</p>
           <Link to="/page-2/">Go to page 2</Link>
         </Col>
       </Row>
